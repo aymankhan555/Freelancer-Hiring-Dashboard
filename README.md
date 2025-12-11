@@ -1,7 +1,7 @@
-🌐 Global Freelancer Hiring Dashboard
+## 🌐 Global Freelancer Hiring Dashboard :
 This interactive and user-friendly dashboard is designed to provide data-driven insights for stakeholders to make informed hiring decisions in the global freelance market. By analyzing key performance and compensation metrics, it enables quick identification of top talent and emerging market trends.
 
-📊 Dashboard Highlights
+## 📊 Dashboard Highlights:
 The dashboard focuses on the most important metrics for fast and effective talent assessment:
 
 Average Rating: Measures overall quality and reliability of freelancers.
@@ -17,7 +17,7 @@ Top Freelancers by Experience: Highlights seasoned experts across various skills
 🛠️ Technologies & Data
 The analysis is based on a cleaned dataset (global_freelancers_cleaned.csv) prepared in Excel and visualized using Power BI.
 
-🖼️ Dashboard Screenshot
+## 🖼️ Dashboard Screenshot:
 ![Global Freelancer Hiring Dashboard](Dashboard.png)
 
 
